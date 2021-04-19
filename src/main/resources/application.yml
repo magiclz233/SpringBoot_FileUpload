@@ -3,13 +3,13 @@ server:
   
 spring:
   application:
-    name: mybatis-plus-demo
+    name: file-demo
 
   datasource:
     druid:
       db-type: com.alibaba.druid.pool.DruidDataSource
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://106.75.216.194:3306/mybatis-all?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+      url: jdbc:mysql://81.70.252.60:3306/file-demo?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
       username: root
       password: QWERwasd*963.
 

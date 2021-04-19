@@ -1,4 +1,4 @@
-package com.cnpc;
+package com.magic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

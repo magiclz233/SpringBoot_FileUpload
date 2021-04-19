@@ -1,4 +1,4 @@
-package com.cnpc.service;
+package com.magic.service;
 
 import org.springframework.core.io.Resource;
 import org.springframework.web.multipart.MultipartFile;
