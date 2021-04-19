@@ -13,6 +13,9 @@ import java.io.*;
 import java.util.List;
 
 
+/**
+ * @author magic
+ */
 @RestController
 public class FileUploadController {
 
